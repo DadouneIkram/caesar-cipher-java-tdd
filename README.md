@@ -1,6 +1,6 @@
 # Chiffrement par décalage en Java (TDD)
 
-> **English summary** — A small Java 17 library and command-line tool implementing the Caesar cipher
+> **English summary:** A small Java 17 library and command-line tool implementing the Caesar cipher
 > (shift cipher) on uppercase text. Built with Maven, developed test-first with JUnit 5, and checked
 > against the Google Java Style with Checkstyle on every build.
 
